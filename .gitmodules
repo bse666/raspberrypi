@@ -1,0 +1,9 @@
+[submodule "function/bluetooth"]
+	path = function/bluetooth
+	url = git@github.com:bse666/rpi_bt.git
+[submodule "function/mpd"]
+	path = function/mpd
+	url = git@github.com:bse666/rpi_mpd.git
+[submodule "function/zfs"]
+	path = function/zfs
+	url = git@github.com:bse666/rpi_zfs.git
