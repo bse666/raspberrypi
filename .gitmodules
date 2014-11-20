@@ -7,3 +7,6 @@
 [submodule "function/zfs"]
 	path = function/zfs
 	url = git@github.com:bse666/rpi_zfs.git
+[submodule "function/wlan"]
+	path = function/wlan
+	url = git@github.com:bse666/rpi_wlan.git
