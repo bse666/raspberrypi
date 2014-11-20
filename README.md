@@ -12,3 +12,4 @@ In this Repository i maintain some of the major things i use for the Raspberry P
 
 ##TODO
 - Bluetooth: BT Streaming to your Car's Audio.
+- RSYNC: Rsync plan to sync your media to the RPi
