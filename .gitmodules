@@ -10,3 +10,6 @@
 [submodule "function/wlan"]
 	path = function/wlan
 	url = git@github.com:bse666/rpi_wlan.git
+[submodule "function/web"]
+	path = function/web
+	url = git@github.com:bse666/rpi_web.git
